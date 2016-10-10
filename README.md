@@ -1,1 +1,1 @@
-"# petjoy.com.ua-2.0" 
+ petjoy.com.ua, rewritten from scratch on Wordpress and in another design
